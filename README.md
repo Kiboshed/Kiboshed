@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kiboshed
 - 👀 I’m interested in machine learning and AI
 - 🌱 I’m currently learning python and more
-- 📫 Connect with me @ my email
+- 📫 Connect with me: https://www.linkedin.com/in/markvalfer/
 
 <!---
 Kiboshed/Kiboshed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
